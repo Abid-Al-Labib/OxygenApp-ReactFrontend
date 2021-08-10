@@ -36,3 +36,35 @@
     transform: rotate(360deg);
   }
 }
+
+.navbar{
+  color: white;
+  padding-left: 1rem;
+}
+
+.buttonRow
+{
+  padding-top: 0.5em;
+  padding-bottom: 1em;
+}
+
+.tableButton
+{
+  padding:0.2em;
+}
+
+.form-group
+{
+  padding: 0.6em;
+}
+
+.form-holder
+{
+  margin: 2em;
+}
+
+.buttonRowSpan
+{
+    padding: 1em;
+}
+

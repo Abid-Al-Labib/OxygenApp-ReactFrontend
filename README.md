@@ -9,12 +9,15 @@ This app was created to help a charity provide oxygen cylinders to different loc
 
 **Getting Started**
 #Clone the repo
+
 git clone https://github.com/Abid-Al-Labib/OxygenApp-ReactFrontend.git
 
 #Install NPM packages
+
 npm install
 
 run the application on localhost
+
 npm start
 
 **Additional Information:**

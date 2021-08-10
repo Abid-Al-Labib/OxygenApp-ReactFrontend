@@ -4,10 +4,13 @@ This app was created to help a charity provide oxygen cylinders to different loc
 **Built With**
 
 -React
+
 -Bootstrap
+
 -Axios
 
 **Getting Started**
+
 #Clone the repo
 
 git clone https://github.com/Abid-Al-Labib/OxygenApp-ReactFrontend.git
@@ -21,9 +24,12 @@ run the application on localhost
 npm start
 
 **Additional Information:**
+
 The backend of this application is deployed and hosted on heroku. If you want to checkout
+
 the server side, please visit my other repository : https://github.com/Abid-Al-Labib/OxygenApp-SpringBackend
 
 **Feedback**
 If you have any feedback please let me know by email : getabidallabib@gmail.com
+
 Add subject: "Github feedback"
